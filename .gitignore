@@ -1,0 +1,11 @@
+# Private working documents (local only)
+docs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local results
+results/
+.env
